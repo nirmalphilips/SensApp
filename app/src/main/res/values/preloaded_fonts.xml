@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alegreya_sans_bold</item>
+        <item>@font/alegreya_sc_bold</item>
+        <item>@font/arbutus</item>
+        <item>@font/archivo</item>
+        <item>@font/archivo_black</item>
+        <item>@font/baloo</item>
+        <item>@font/lato_black</item>
+        <item>@font/lato_bold</item>
+        <item>@font/noto_sans_bold</item>
+        <item>@font/roboto_bold</item>
+        <item>@font/sansita_bold</item>
+    </array>
+</resources>

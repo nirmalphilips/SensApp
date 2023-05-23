@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">SensApp</string>
+    <string name="version_number">1.0.0</string>
+    <string name="release_date">March 28, 2023</string>
+    <string name="btn_guide">User Guide</string>
+    <string name="description">homeimage</string>
+    <string name="btn_information">Device Information</string>
+    <string name="info_makemodel">Make and Model</string>
+    <string name="info_battery">Battery Level</string>
+    <string name="info_description">infoicon</string>
+    <string name="btn_sensors">Sensor Values</string>
+    <string name="description_logo">homepage logo</string>
+    <string name="btn_temp">ButtonTemp</string>
+    <string name="btn_sensor">Available Sensors</string>
+    <string name="btn_motion">ButtonMotion</string>
+    <string name="temp_value">TempSensorValue</string>
+    <string name="temp_save_btn">Save Data</string>
+    <string name="temp_saved_btn">View Saved Data</string>
+    <string name="motion_save_btn">Save Data</string>
+    <string name="motion_saved_btn">View Saved Data</string>
+    <string name="choose_sensor">Choose the Sensor</string>
+    <string name="temp_btn">Temperature</string>
+    <string name="motion_btn">Accelerometer</string>
+    <string name="more_sensors">More Sensors Available Soon…</string>
+    <string name="SensApp">©SensApp</string>
+    <string name="unit_m_per_sec2">m/s²</string>
+    <string name="unit_ft_per_sec2">ft/s²</string>
+
+    <string-array name="unit_options">
+
+        <item>@string/unit_m_per_sec2</item>
+        <item>@string/unit_ft_per_sec2</item>
+
+    </string-array>
+
+    <string name="user_guide_title">User Guide: SensApp</string>
+    <string name="guide_description">Welcome to the SensApp User Guide! This guide will help you understand how to use the app to view the built-in sensor values of your device. With the built-in sensors, you can measure temperature and accelerometer values and view your device information such as make, model and battery level.</string>
+    <string name="guide_description2">The home page of the app contains four buttons: Sensor Values, Available Sensors, Device Information, and User Guide.</string>
+    <string name="title_1">Sensor Values</string>
+    <string name="title1_description">When you click on the Sensor Values button, you will be directed to a new page with the available sensors. The current available sensors are temperature and accelerometer.</string>
+    <string name="title_1.1">Temperature</string>
+    <string name="title1.1_description">If you select the Temperature sensor, you will be taken to a new page where you can view the temperature value. You can also change the measurement unit to Fahrenheit or Celsius by selecting from the options. To save the current sensor value with date and time, click on the Save button. A message will appear if the data is saved successfully. If you want to view the saved data, click on the View Saved Data button. You will be able to view the data in Date, Time, and the sensor value with measurement unit.</string>
+    <string name="title_1.2">Accelerometer</string>
+    <string name="title1.2_description">If you select the Accelerometer sensor, you will be taken to a new page where you can view the values of x, y, and z-axis. You can also change the measurement unit to m/s2 or ft/s2 by selecting from the options. To save the current sensor value with date and time, click on the Save button. A message will appear if the data is saved successfully. If you want to view the saved data, click on the View Saved Data button. You will be able to view the data in Date, Time, and sensor value with the measurement unit.</string>
+    <string name="title_2">Available Sensors</string>
+    <string name="title2_description">When you click on this button, you will be directed to a new page which list all the available built-in sensors on your device.</string>
+    <string name="title_3">Device Information</string>
+    <string name="title3_description">If you click on the Device Information button, you will be able to view your device information Make, Model and Battery Level.</string>
+    <string name="conclusion">Hope this guide helps you use the app to its full potential. If you have any questions or feedback, please dont hesitate to reach out to the developer.</string>
+</resources>
+
