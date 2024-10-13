@@ -1,6 +1,12 @@
 # **SensApp**
 ---
 
+# **Disclaimer:**
+
+**This App has been developed as part of the coursework for the module Mobile Applications for Engineering at the University of Greenwich during Year II of Computer Engineering BEng (Hons) (Academic Year 2022/23)** 
+
+**All credits must be given to the creator and the University of Greenwich**
+
 ## **Introduction**
 
 The aim of this report is to outline the development of an android app SensApp that utilizes the built-in sensors of mobile devices to measure and relay the data to the user and also displays the current Device information. This app provides users with the option to change the units of 
